@@ -28,3 +28,4 @@ Prices are in AUD (Australian Dollar) unless otherwise specified, because that's
 | [Lynda / LinkedIn Learning](https://www.lynda.com/) | Wide range of online software development courses provided by LinkedIn | All levels | Free month trial, then $39.99 monthly |
 | [Pluralsight](https://www.pluralsight.com/) | Massive Open Online Course (MOOC) provider | All levels | Free trial, then $29 USD monthly or $299 USD annually. A premium subscription also exists for $449 USD annually which includes exams and interactive courses |
 | [Codecademy](https://www.codecademy.com/) | Online interactive courses to learn to code and different languages / frameworks. | Beginner | Limited access for free. Annual subscription for $19.99 USD a month, or month-by-month for $39.99 USD. |
+| [Skillshare](https://www.skillshare.com/) | Massive Open Online Course (MOOC) provider. Provides Web Development courses. | Beginner - Intermediate | Free trial, then $11.75 monthly | 
