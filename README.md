@@ -16,6 +16,7 @@ Prices are in AUD (Australian Dollar) unless otherwise specified, because that's
 | Name | Description | Level | Cost |
 | ---- | ----------- | ----- | ---- |
 | [Coursera](https://www.coursera.org/) | Massive Open Online Course (MOOC) provider | All levels | Varies. 7 day free trial, then $68/month for a specialisation. Coursera for business is $400 per user annually. |
+| [O'Reilly Online](https://www.oreilly.com/) | Subscription-based online book provider. Contains entire O'Reilly catalogue and more. | All levels | Free trial then $499 USD annually. Comes free with many university courses (just need SSO) | 
 | [Udemy](https://www.udemy.com/) | Massive Open Online Course (MOOC) provider | All levels | Prices are per course and range from $5 to $199. |
 | [MIT Open Courseware](https://ocw.mit.edu/index.htm) | Free course material provided by Massachusetts Institute of Technology. | Intermediate - Advanced | Free |
 | [acloud guru](https://acloudguru.com/) | Subscription-based cloud service training platform. Covers AWS mainly, but also Azure and GCP. Also includes the entire Linux Academy catalogue. | All levels | Free for some courses, $379 USD a year for a personal plan with access to a lot more material incl. trial certification exams and labs. |
