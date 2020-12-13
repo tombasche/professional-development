@@ -30,3 +30,9 @@ Prices are in AUD (Australian Dollar) unless otherwise specified, because that's
 | [Codecademy](https://www.codecademy.com/) | Online interactive courses to learn to code and different languages / frameworks. | Beginner | Limited access for free. Annual subscription for $19.99 USD a month, or month-by-month for $39.99 USD. |
 | [Skillshare](https://www.skillshare.com/) | Massive Open Online Course (MOOC) provider. Provides Web Development courses. | Beginner - Intermediate | Free trial, then $11.75 monthly | 
 | [GOTO Conference Talks](https://www.youtube.com/user/GotoConferences) | Recorded talks from the [GOTO](http://gotocon.com/aboutjaoo/) conference. | All levels | Free | 
+
+## Recommended readings
+
+| Name | Description | Level | Cost |
+| ---- | ----------- | ----- | ---- |
+|[Writing an Interpreter in Go](https://interpreterbook.com/) | A test-driven development (TDD) focussed approach to writing an interpreted programming language purely in [Go](https://golang.org/). | All levels | $29 |
