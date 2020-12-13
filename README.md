@@ -36,3 +36,4 @@ Prices are in AUD (Australian Dollar) unless otherwise specified, because that's
 | ---- | ----------- | ----- | ---- |
 |[Writing an Interpreter in Go](https://interpreterbook.com/) | A test-driven development (TDD) focussed approach to writing an interpreted programming language purely in [Go](https://golang.org/). | All levels | $29 eBook or $39 paperback |
 | [DevOps with Docker](https://devopswithdocker.com/) | Free online Docker course provided by the University of Helsinki | Beginner | Free |
+| [FlexBox Froggy](https://flexboxfroggy.com/) | Interactive gamified way to learn CSS flexbox | Beginner - Intermediate | Free |
