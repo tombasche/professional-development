@@ -35,4 +35,4 @@ Prices are in AUD (Australian Dollar) unless otherwise specified, because that's
 
 | Name | Description | Level | Cost |
 | ---- | ----------- | ----- | ---- |
-|[Writing an Interpreter in Go](https://interpreterbook.com/) | A test-driven development (TDD) focussed approach to writing an interpreted programming language purely in [Go](https://golang.org/). | All levels | $29 |
+|[Writing an Interpreter in Go](https://interpreterbook.com/) | A test-driven development (TDD) focussed approach to writing an interpreted programming language purely in [Go](https://golang.org/). | All levels | $29 eBook or $39 paperback |
