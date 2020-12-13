@@ -24,3 +24,7 @@ Prices are in AUD (Australian Dollar) unless otherwise specified, because that's
 | [YOW! Online](https://yowconference.com/why-yow-online) | Australian conference talks with workshops and Q&A sessions | All levels | $25 monthly |
 | [DevOps with Docker](https://devopswithdocker.com/) | Free online Docker course provided by the University of Helsinki | Beginner | Free |
 | [Udacity](https://www.udacity.com/) | Online 'nano-degrees' | All levels | $589 / month for all access, but varies from course to course. | 
+| [Complexity Explorer](https://www.complexityexplorer.org) | Deep dives into technical topics ranging from mathematics, machine learning, computer science etc. | All levels | Free |
+| [Lynda / LinkedIn Learning](https://www.lynda.com/) | Wide range of online software development courses provided by LinkedIn | All levels | Free month trial, then $39.99 monthly |
+| [Pluralsight](https://www.pluralsight.com/) | Massive Open Online Course (MOOC) provider | All levels | Free trial, then $29 USD monthly or $299 USD annually. A premium subscription also exists for $449 USD annually which includes exams and interactive courses |
+| [Codecademy](https://www.codecademy.com/) | Online interactive courses to learn to code and different languages / frameworks. | Beginner | Limited access for free. Annual subscription for $19.99 USD a month, or month-by-month for $39.99 USD. |
