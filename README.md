@@ -51,3 +51,4 @@ Prices are in AUD (Australian Dollar) unless otherwise specified, because that's
 | Name | Description | Level | Cost |
 | ---- | ----------- | ----- | ---- |
 | [Refactoring Guru](https://refactoring.guru/) | A free and comprehensive guide to design patterns, refactorings and code smells. | Intermediate - Advanced | Free, but there's a design patterns eBook available for $39.95, and a refactoring book for $54.95 |
+| [Game Programming Patterns](https://gameprogrammingpatterns.com/) | Robert Nystrom's guide to applying design patterns in games. Could also apply to a lot of systems programming. | Intermediate - Advanced | Free but paperback on Amazon available for $33.95 USD (ebook is $24.95 USD) | 
