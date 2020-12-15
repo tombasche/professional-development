@@ -46,4 +46,8 @@ Prices are in AUD (Australian Dollar) unless otherwise specified, because that's
 | [GOTO Conference Talks](https://www.youtube.com/user/GotoConferences) | Recorded talks from the [GOTO](http://gotocon.com/aboutjaoo/) conference. | All levels | Free | 
 | [YOW! Online](https://yowconference.com/why-yow-online) | Australian conference talks with workshops and Q&A sessions | All levels | $25 monthly |
 
+## Sites and blogs
 
+| Name | Description | Level | Cost |
+| ---- | ----------- | ----- | ---- |
+| [Refactoring Guru](https://refactoring.guru/) | A free and comprehensive guide to design patterns, refactorings and code smells. | Intermediate - Advanced | Free, but there's a design patterns eBook available for $39.95, and a refactoring book for $54.95 |
