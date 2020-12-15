@@ -38,6 +38,7 @@ Prices are in AUD (Australian Dollar) unless otherwise specified, because that's
 | [DevOps with Docker](https://devopswithdocker.com/) | Free online Docker course provided by the University of Helsinki | Beginner | Free |
 | [FlexBox Froggy](https://flexboxfroggy.com/) | Interactive gamified way to learn CSS flexbox | Beginner - Intermediate | Free |
 | [Vimtutor](http://www2.geog.ucl.ac.uk/~plewis/teaching/unix/vimtutor) | A tutorial for Vim that comes with the commandline text editor. Accessed with the `vimtutor` command in the terminal. | Beginner | Free |
+| [Crafting Interpreters](https://www.craftinginterpreters.com/introduction.html) | An online guide on creating an interpreter for a new programming language, in Java. | All levels | Free | 
 
 ## Conferences
 
