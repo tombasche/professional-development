@@ -57,6 +57,7 @@ Prices are in AUD (Australian Dollar) unless otherwise specified, because that's
 ## Books
 
 (I won't put prices here but just a link. It's easier than finding the cheapest store for your country.)
-| Name | Description | Level |
-| ---- | ----------- | ----------------- |
-| [Clean Code by Robert C. Martin (Uncle Bob)](https://www.amazon.com.au/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882) | A software craftsman's guide to writing clean code. Lots of code examples (in Java) and before/after of refactored code. | All levels
+| Name | Author| Description | Level |
+| ---- | ----- | ----------- | ----- |
+| [Clean Code](https://www.amazon.com.au/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882) | Robert C. Martin (Uncle Bob) | A software craftsman's guide to writing clean code. Lots of code examples (in Java) and before/after of refactored code. | All levels |
+| [Accelerate: The Science of Lean software and Devops](https://www.amazon.com.au/Accelerate-Software-Performing-Technology-Organizations/dp/1942788339) | Nicole Forsgren (Phd), Jez Humble and Gene Kim | A research-based book describing the application of technology and Devops principles to building an organisation. | Intermediate+ |
