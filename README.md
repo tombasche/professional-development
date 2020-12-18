@@ -53,3 +53,10 @@ Prices are in AUD (Australian Dollar) unless otherwise specified, because that's
 | ---- | ----------- | ----- | ---- |
 | [Refactoring Guru](https://refactoring.guru/) | A free and comprehensive guide to design patterns, refactorings and code smells. | Intermediate - Advanced | Free, but there's a design patterns eBook available for $39.95, and a refactoring book for $54.95 |
 | [Game Programming Patterns](https://gameprogrammingpatterns.com/) | Robert Nystrom's guide to applying design patterns in games. Could also apply to a lot of systems programming. | Intermediate - Advanced | Free but paperback on Amazon available for $33.95 USD (ebook is $24.95 USD) | 
+
+## Books
+
+(I won't put prices here but just a link. It's easier than finding the cheapest store for your country.)
+| Name | Description | Level |
+| ---- | ----------- | ----------------- |
+| [Clean Code by Robert C. Martin (Uncle Bob)](https://www.amazon.com.au/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882) | A software craftsman's guide to writing clean code. Lots of code examples (in Java) and before/after of refactored code. | All levels
