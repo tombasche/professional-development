@@ -41,6 +41,7 @@ Prices are in AUD (Australian Dollar) unless otherwise specified, because that's
 | [Vimtutor](http://www2.geog.ucl.ac.uk/~plewis/teaching/unix/vimtutor) | A tutorial for Vim that comes with the commandline text editor. Accessed with the `vimtutor` command in the terminal. | Beginner | Free |
 | [Crafting Interpreters](https://www.craftinginterpreters.com/introduction.html) | An online guide on creating an interpreter for a new programming language, in Java. | All levels | Free |  
 | [Design of Computer Programs](https://www.udacity.com/course/design-of-computer-programs--cs212) | Free course on designing solutions in Python, using Peter Norvig's problem-solving techniques and clean coding style. | Peter Norvig & Udacity | All levels | Free |
+| [Epic React](https://epicreact.dev/) | A series of courses on advanced React concepts, covering testing and architecting of React applications as well as user experience. | Kent C. Dodds | Intermediate, Advanced | Pay a standalone fee to get a series of workshops. Prices vary based on IP address; in Australia it's $264 for standard (4 workshops), $119 for basic (2 workshops) and $599 for premiuim (8 workshops)|
 
 ## Conferences
 
