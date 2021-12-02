@@ -51,7 +51,6 @@ The following list is by no means exhaustive, and I've tried to keep it as objec
 
 | Name | Author| Description | Level |
 | ---- | ----- | ----------- | ----- |
-| [Clean Code](https://www.amazon.com.au/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882) | Robert C. Martin (Uncle Bob) | A software craftsman's guide to writing clean code. Lots of code examples (in Java) and before/after of refactored code. | All levels |
 | [Accelerate: The Science of Lean software and Devops](https://www.amazon.com.au/Accelerate-Software-Performing-Technology-Organizations/dp/1942788339) | Nicole Forsgren (Phd), Jez Humble and Gene Kim | A research-based book describing the application of technology and Devops principles to building an organisation. | Intermediate+ |
 | [Test Driven Development By Example](https://www.amazon.com.au/Test-Driven-Development-Kent-Beck/dp/0321146530) | Kent Beck | A straight-forward introduction to Test Driven Development (TDD) using various examples in both Java and Python. Discusses best practices and the 'greatest hits' of TDD. | All levels |
 | [Clean Architecture](https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164) | Robert C. Martin (Uncle Bob) | A primer on the SOLID software engineering principles, software structure, discussions on cohesion and coupling in software components. Java examples, mainly focusses on the object-oriented paradigm but very easily translatable into others. | All levels |
