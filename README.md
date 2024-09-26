@@ -19,6 +19,7 @@ The following list is by no means exhaustive, and I've tried to keep it as objec
 | [Skillshare](https://www.skillshare.com/) | Massive Open Online Course (MOOC) provider. Provides Web Development courses. | Beginner - Intermediate |
 | [FreeCodeCamp](https://www.freecodecamp.org/) | Free (non-profit) online learning platform with interactive lessions and certifications | Beginner |
 | [LeetCode](https://leetcode.com/) | Interactive computer science interview questions platform. Typical FAANG interview questions. | All levels |
+| [GameDev.tv](https://www.gamedev.tv/) | Online videos and courses for game development and art in Unity, Unreal, Godot, Blender etc. | All levels |
 
 
 ## Standalone courses
